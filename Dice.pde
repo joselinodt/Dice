@@ -85,7 +85,6 @@ class Die //models one single dice cube
       sixDot = true;
       numDots=6;
     }
-    System.out.println(prob);
   }
   void show()
   {
